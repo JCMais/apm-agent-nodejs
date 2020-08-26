@@ -1,6 +1,6 @@
 {
   "name": "elastic-apm-node",
-  "version": "3.6.1",
+  "version": "3.7.0",
   "description": "The official Elastic APM agent for Node.js",
   "main": "index.js",
   "types": "index.d.ts",
@@ -146,7 +146,7 @@
     "ioredis": "^4.16.0",
     "is-my-json-valid": "^2.20.0",
     "jade": "^1.11.0",
-    "knex": "^0.20.10",
+    "knex": "^0.21.2",
     "koa": "^2.11.0",
     "koa-router": "^9.0.1",
     "lambda-local": "^1.7.1",
@@ -197,7 +197,7 @@
     ]
   },
   "coordinates": [
-    56.038606,
-    12.619913
+    56.038184,
+    12.61979
   ]
 }
